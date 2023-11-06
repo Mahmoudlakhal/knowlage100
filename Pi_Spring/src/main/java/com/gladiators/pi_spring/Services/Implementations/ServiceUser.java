@@ -51,7 +51,4 @@ public class ServiceUser implements IServiceUser {
 
         return userRepository.save(UserP);
     }
-
-
-
 }
