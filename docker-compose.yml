@@ -2,7 +2,7 @@ version: '3'
 
 services:
   app:
-    image: test:v2
+    image: test:v3
     ports:
       - "8089:8089"
     depends_on:
